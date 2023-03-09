@@ -42,7 +42,7 @@
   
 <br><br>
 ### 🌱 요즘 잔디 키우기에 빠졌어요. 축구를 할 수 있게 해볼게요! 🌱
-<img src="http://mazandi.herokuapp.com/api?handle=sonnayoung&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=na0son&theme=warm"/>
 </div>
 <br>
 
